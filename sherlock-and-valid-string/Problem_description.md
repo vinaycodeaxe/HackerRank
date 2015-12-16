@@ -1,4 +1,4 @@
-Probmlem link-  https://www.hackerrank.com/challenges/sherlock-and-valid-string
+Problem link-  https://www.hackerrank.com/challenges/sherlock-and-valid-string
 
 
 ##Problem Statement
